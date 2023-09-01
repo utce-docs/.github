@@ -24,6 +24,8 @@ We encourage students and faculty to actively contribute to this repository by a
 
 We truly appreciate your interest in contributing to the UTCE Docs. Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for detailed instructions on how to contribute, including steps to follow, tips for a good contribution, and the process after submission.
 
+If you want to add a new course please refer to the [Adding a New Course](./ADD_NEW_COURSE.md) file for detailed instructions on how to do so.
+
 ## Handling False Information
 
 We strive to maintain the accuracy of the information in this repository. If you find any false or misleading information, please report it using the steps described in our [False Information Policy](./FALSE_INFORMATION.md).
