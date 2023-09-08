@@ -13,8 +13,11 @@ This guide will walk you through the process of requesting a new course.
 
 ## Creating a Repository for a New Course
 
+**NOTE** <br>
+This action is only available to members of the organization. If you want to add a new course to the organization, please create a new issue.
+
 This guide will walk you through the process of creating a new repository based on the template repository. 
-The naming format for the new repository will follow the convention: `<coursename>`, which is dash-seperated; For example: `Advanced-Programming`.
+The naming format for the new repository will follow the convention: `<coursename>`, which is dash-separated; For example: `Advanced-Programming`.
 
 ### Steps
 
