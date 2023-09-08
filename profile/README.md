@@ -1,16 +1,16 @@
-# UTCE Docs
+# UTECE Docs
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Welcome to UTCE Docs, a repository dedicated to documenting projects associated with the Computer Engineering courses at the University of Tehran.
+Welcome to UTECE Docs, a repository dedicated to documenting projects associated with the Electrical and Computer Engineering courses at the University of Tehran.
 
 ## Overview
 
-This repository serves as a central hub to record and showcase the diverse range of projects undertaken by students enrolled in the Computer Engineering program at the University of Tehran. It provides a comprehensive collection of project documentation, including project descriptions, methodologies, expected outcomes, and associated resources.
+This repository serves as a central hub to record and showcase the diverse range of projects undertaken by students enrolled in the Electrical and Computer Engineering program at the University of Tehran. It provides a comprehensive collection of project documentation, including project descriptions, methodologies, expected outcomes, and associated resources.
 
 By curating this repository, we aim to create a valuable resource not just for students, faculty, and researchers within the University of Tehran but also for the global academic community. It allows for easy access to past projects, promoting knowledge sharing, collaboration, and inspiration for future endeavors.
 
-The repository covers a wide array of topics and domains within the field of Computer Engineering, from software development and algorithms to hardware design and system architecture.
+The repository covers a wide array of topics and domains within the field of Electrical and Computer Engineering, from software development and algorithms to hardware design and system architecture.
 
 We encourage students and faculty to actively contribute to this repository by adding their project documentation.
 
