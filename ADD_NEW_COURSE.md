@@ -1,7 +1,20 @@
+## Requesting a Repository for a New Course
+
+This guide will walk you through the process of requesting a new course. 
+
+### Steps
+
+1. **Access the Template Repository**
+   - Navigate to the [template](https://github.com/utce-docs/template) repository on GitHub.
+
+2. **Create a New Issue**
+   - In a new issue, mention the course you want to be included.
+
+
 ## Creating a Repository for a New Course
 
 This guide will walk you through the process of creating a new repository based on the template repository. 
-The naming format for the new repository will follow the convention: `<coursename>-<F for fall, S for Spring><year>`.
+The naming format for the new repository will follow the convention: `<coursename>`.
 
 ### Steps
 
