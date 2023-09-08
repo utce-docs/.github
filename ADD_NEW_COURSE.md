@@ -24,7 +24,7 @@ The naming format for the new repository will follow the convention: `<coursenam
 
 2. **Create a New Repository**
    - You will be redirected to the "Create a new repository" page.
-   - Enter a **descriptive name** for your new repository, following the `<coursename>-<F/S><year>` format.
+   - Enter a **descriptive name** for your new repository, following the `<Fall/Spring><year>` format.
    - Optionally, provide a brief **description** for the repository to provide more context.
    - Choose the **visibility** (public, private, or internal) according to your requirements.
    - If desired, initialize the repository with a **README** file, a **license**, or a **.gitignore** file based on your project needs.
