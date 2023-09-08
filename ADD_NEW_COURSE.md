@@ -53,4 +53,4 @@ The naming format for the new repository will follow the convention: `<coursenam
    - Encourage collaboration, pull requests, and issue reporting to foster a healthy and active project community.
 
 Congratulations! You have successfully created a new repository for your course. 
-Thank you for your time and efforts!
+Thank you for your time and effort!
